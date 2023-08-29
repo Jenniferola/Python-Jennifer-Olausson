@@ -1,7 +1,12 @@
 # Python-Jennifer-Olausson
-Python course for **bold text** AI23 ITHS
+Python course for **AI23** ITHS
+
+- course
+- Python
+- AI
 ---
 ---
-```
+``` Python
+print("hej")
 print("hej")
 ```
