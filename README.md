@@ -1,2 +1,2 @@
 # Python-Jennifer-Olausson
-Python course for AI23 ITHS
+Python course for **bold text** AI23 ITHS
