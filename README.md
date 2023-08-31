@@ -12,4 +12,4 @@ Python course for **AI23** ITHS
 print("hej")
 print("hej")
 ```
-print("testar att spela in") 
+print("ny test") 
