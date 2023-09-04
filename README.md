@@ -9,7 +9,6 @@ Python course for **AI23** ITHS
 ---
 ---
 ``` Python
-print("hej")
-print("hej")
+
 ```
-print("test om rätt kod") 
+ 
