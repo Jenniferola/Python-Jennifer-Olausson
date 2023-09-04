@@ -7,8 +7,4 @@ Python course for **AI23** ITHS
 - Python
 - AI
 ---
----
-``` Python
-
-```
  
