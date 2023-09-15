@@ -5,8 +5,10 @@ name = "pypi"
 
 [packages]
 ipykernel = "*"
+matplotlib = "*"
 
 [dev-packages]
+notebook = "*"
 
 [requires]
 python_version = "3.11"
