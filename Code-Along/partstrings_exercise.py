@@ -1,20 +1,18 @@
-user_input = "Please write a string"
+def divided_pikachu_and_pichu(list):
+    # The values of pichu and pikachu are seperated to two new lists. 
 
-numbers = "0123456789"
-initial_char = ""
-char_index_1 = 0
+    pichu_datapoints = [item for item in pokemons if item["label"] == 0]
+    pikachu_datapoints = [item for item in pokemons if item["label"] == 1]
 
-for char_1 in numbers:
-    initial_char = char_1
-    substring_index = char_index_1 +1
-    char_index_2 = substring_index
-    for char_2 in user_input[substring_index]:
-        if char_2 not in numbers:
-            break
-        else:   
-            if char_2 == char_1:
-                print(f"from{char_index_1} to {char_index_2}")
-                break
-            else:
-                char_index_2 += 1
-    char_index_1 +=1
+    for row in pichu_datapoints:
+        pichu_x_values_width.append(row["width"])
+
+    for row in pichu_datapoints:
+        pichu_y_values_height.append(row["height"])
+
+
+    for row in pikachu_datapoints:
+        pikachu_x_values_width.append(row["width"])
+
+    for row in pikachu_datapoints:
+        pikachu_y_values_height.append(row["height"])
